@@ -14,9 +14,15 @@
  | 1.0 26-03-2015 Christopher Karl Chan (A-Team Cloud Solution Architects) CREATED                        |
  |                                                                                                        |
  +=======================================================================================================*/
-var censor = require("sensorify");
+//var censor = require("censorify_ckc");
+var async = require('censorify_ckc');
+console.log('hello');
+/**
 console.log(censor.getCensoredWords());
 console.log(censor.censor("Some very sad, bad and mad text."));
 censor.addCensoredWord("gloomy");
 console.log(censor.getCensoredWords());
 console.log(censor.censor("A very gloomy day."));
+
+ **/
+

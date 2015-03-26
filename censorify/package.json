@@ -1,19 +1,11 @@
 {
-  "author": "Christopher Karl Chan",
-  "name": "sensorify",
-  "version": "0.0.0",
-  "description": "Censor words out of text",
-  "main": "censortext",
-  "respoitory": {
-    "type": "git",
-    "url": "https://github.com/christopherkarlchanoracle/node/tree/master/censorify"
-  },
-  "keywords": [
-    "censor",
-    "words"
-  ],
-  "dependencies": {},
-  "engines": {
-    "node": "*"
-  }
-}
+     "author": "Christopher C",
+     "name": "censorify_ckc",
+     "version": "0.1.1",
+     "description": "Chris Censors words out of text",
+     "main": "censortext",
+     "dependencies": {},
+     "engines": {
+         "node": "*"
+     }
+   }
